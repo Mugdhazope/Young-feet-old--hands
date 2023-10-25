@@ -665,11 +665,11 @@ ul.email li i {
 }
 
 .shop_img figure {
-     margin: 050px;
+     margin: 0;
 }
 
 .shop .titlepage .read_more::before {
-     left: 0 ;
+     left: 89px;
 }
 
 
