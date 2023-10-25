@@ -14,5 +14,5 @@ CREATE TABLE elder (
     gender VARCHAR(10),
     age INT,
     area VARCHAR(255),
-    help VARCHAR(2)
+    help VARCHAR(2) DEFAULT 'Y'
 );
