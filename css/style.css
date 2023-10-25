@@ -1107,6 +1107,10 @@ ul.social_icon li a:hover {
      color: #501f14;
      opacity: 1;
 }
+.logo{
+     height: 100px;
+     width: 100px;
+}
 
 
 /** end contact **/
